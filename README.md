@@ -2,6 +2,10 @@
 
 A nlp project developed in Python as part of a data science portfolio.
 
+## Why I built this project
+
+I built this project to demonstrate how text features can distinguish languages in a practical multiclass NLP task.
+
 ## Overview
 
 This repository demonstrates an end-to-end data science workflow, including exploration, preprocessing, modeling, and evaluation where applicable.
